@@ -182,12 +182,6 @@ Check your work against the solutions in the [Solutions](Solutions/) folder:
 
 ---
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding exercises or improvements.
-
----
-
 ## License
 
 MIT License - feel free to use for learning and teaching.
